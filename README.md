@@ -40,12 +40,10 @@ Site de ícones: https://devicon.dev/
   <img align="right" alt="Weidson-pic" height="150" style="border-radius:50px;"       src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
 
-  ##
-  
-  <div align="center">
-
-  ![Snake animation](https://github.com/WeidsonCordeiro/WeidsonCordeiro/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeidsonCordeiro/WeidsonCordeiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WeidsonCordeiro/WeidsonCordeiro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WeidsonCordeiro/WeidsonCordeiro/output/github-contribution-grid-snake.svg">
+</picture>
 
   
