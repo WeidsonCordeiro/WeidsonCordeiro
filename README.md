@@ -33,8 +33,9 @@ Site de ícones: https://devicon.dev/
 <div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img height="180em" width="48.5%" src="https://github-readme-stats.vercel.app/api?username=WeidsonCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180em" width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeidsonCordeiro&layout=compact&langs_count=7&theme=dracula" alt="Most Used Languages"/>
+  <!--<img height="180em" width="48.5%" src="https://github-readme-stats.vercel.app/api?username=WeidsonCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeidsonCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeidsonCordeiro&layout=compact&langs_count=7&theme=dracula" alt="Most Used Languages"/>
 </div>
 
 #
