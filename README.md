@@ -19,7 +19,7 @@ Site de ícones: https://devicon.dev/
 
 <div align="center">
   <h1 align="center">
-    Hi, I'm <a href="https://www.linkedin.com/in/weidson-cordeiro-45390244/">Weidson Cordeiro 😃️</a> and I'm a junior full‑stack developer working with React and Node.js. I'm continuously improving my skills and expanding my knowledge in web development
+    Hi, I'm <a href="https://www.linkedin.com/in/weidson-cordeiro-45390244/">Weidson Cordeiro 😃️</a> and I'm a full‑stack developer working with React and Node.js. I'm continuously improving my skills and expanding my knowledge in web development
   </h1>
 </div>
 
